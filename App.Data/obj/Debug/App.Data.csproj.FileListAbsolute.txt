@@ -1,0 +1,22 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\bin\Debug\App.Data.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\bin\Debug\App.Data.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\bin\Debug\App.Data.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\obj\Debug\App.Data.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\obj\Debug\App.Data.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.Data\obj\Debug\App.Data.pdb
+C:\Users\Tomek\Desktop\App\App.Data\bin\Debug\App.Data.dll.config
+C:\Users\Tomek\Desktop\App\App.Data\bin\Debug\App.Data.dll
+C:\Users\Tomek\Desktop\App\App.Data\bin\Debug\App.Data.pdb
+C:\Users\Tomek\Desktop\App\App.Data\bin\Debug\EntityFramework.dll
+C:\Users\Tomek\Desktop\App\App.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tomek\Desktop\App\App.Data\bin\Debug\EntityFramework.xml
+C:\Users\Tomek\Desktop\App\App.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tomek\Desktop\App\App.Data\obj\Debug\App.Data.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\App\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\App\App.Data\obj\Debug\App.Data.dll
+C:\Users\Tomek\Desktop\App\App.Data\obj\Debug\App.Data.pdb
