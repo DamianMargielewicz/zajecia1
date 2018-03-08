@@ -1,0 +1,86 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\Views\DevicesView.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\Views\SingleDeviceView.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient_MarkupCompile.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient_MarkupCompile.lref
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\MainApp.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\App.DesktopClient.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\App.DesktopClient.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\App.DesktopClient.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\Views\DevicesView.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\Views\MainWindow.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\Views\SingleDeviceView.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\obj\Debug\App.DesktopClient.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\App.Data.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\App.Data.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\App.Data.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Prism.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Prism.Wpf.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Prism.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\App\App.DesktopClient\bin\Debug\Prism.Wpf.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\App.DesktopClient.exe.config
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\App.DesktopClient.exe
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\App.DesktopClient.pdb
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\App.Data.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\EntityFramework.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Prism.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Prism.Wpf.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\App.Data.pdb
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\App.Data.dll.config
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\EntityFramework.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Prism.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\bin\Debug\Prism.Wpf.xml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\Views\DevicesView.baml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\Views\DevicesView.g.cs
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\Views\SingleDeviceView.g.cs
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\MainApp.g.cs
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient_MarkupCompile.cache
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient_MarkupCompile.lref
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\Views\MainWindow.baml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\Views\SingleDeviceView.baml
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient.g.resources
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient.Properties.Resources.resources
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient.exe
+C:\Users\Tomek\Desktop\App\App.DesktopClient\obj\Debug\App.DesktopClient.pdb
